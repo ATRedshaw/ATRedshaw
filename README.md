@@ -26,7 +26,7 @@
 
 I’m a Data Scientist with a deep interest in unravelling complex datasets, particularly when it involves sports statistics. My expertise centres on machine learning, statistical modelling, and data visualisation, with a technical toolkit spanning Python to Azure. I’m especially drawn to analysing football results, Formula 1 performance, and darts trends, where I apply data science to uncover meaningful patterns.
 
-For any write-ups on some of my work, it's worth checking out my [blog page](https://atredshaw.github.io/).
+Any further write-ups on my work can be found [here](https://atredshaw.github.io/).
 
 ## My Expertise
 - **Machine Learning & Predictive Modelling**: I develop models to simplify processes and bring clarity to complex problems, such as probabilistic xG models for football or forecasting trends in business operations.
