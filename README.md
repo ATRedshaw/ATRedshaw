@@ -30,7 +30,7 @@ Any further write-ups on my work can be found [here](https://atredshaw.github.io
 
 ## My Expertise
 - **Machine Learning & Predictive Modelling**: I develop models to simplify processes and bring clarity to complex problems, such as probabilistic xG models for football or forecasting trends in business operations.
-- **Technical Tools**: I’m well-versed in Python (Scikit-Learn, Pandas, NumPy, PuLP), SQL, Azure SQL DB, and Alteryx, alongside creating impactful dashboards with Power BI and Tableau.
+- **Technical Tools**: I specialise in Python (Scikit-Learn, Pandas, NumPy, Matplotlib, PuLP) but am well-versed in many other technical areas, such as SQL, Java, React, Tableau and PowerBI.
 - **Cloud Computing**: I have practical experience with Azure, including the [AI-900: AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/AlexRedshawUK-7850/67A0F1144119022E?sharingId=C183137B04FE9A8C) certification, as well as working towards the DP-100 Data Science Associate. This is complemented by a more light-touch exposure to GCP and AWS.
 
 ## My Experience
