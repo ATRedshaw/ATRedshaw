@@ -31,15 +31,15 @@ Any further write-ups on my work can be found [here](https://atredshaw.github.io
 ## My Expertise
 - **Machine Learning & Predictive Modelling**: I develop models to simplify processes and bring clarity to complex problems, such as probabilistic xG models for football or forecasting trends in business operations.
 - **Technical Tools**: I specialise in Python (Scikit-Learn, Pandas, NumPy, Matplotlib, PuLP) but am well-versed in many other technical areas, such as SQL, Java, React, Tableau and PowerBI.
-- **Cloud Computing**: I have practical experience with Azure, including the [AI-900: AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/AlexRedshawUK-7850/67A0F1144119022E?sharingId=C183137B04FE9A8C) certification, as well as working towards the DP-100 Data Science Associate. This is complemented by a more light-touch exposure to GCP and AWS.
+- **Cloud Computing**: I have practical experience with Azure, including the [AI-900: AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/AlexRedshawUK-7850/67A0F1144119022E?sharingId=C183137B04FE9A8C) and the [DP-100 Azure Data Scienctist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AlexRedshawUK-7850/3D296666B7DA157C?sharingId=C183137B04FE9A8C) certifications. This is complemented by a more light-touch exposure to GCP and AWS.
 
 ## My Experience
 In my current role in Data & Analytics, I apply data to solve real-world challenges, such as improving operational efficiency and anticipating future trends. During my university years, I blended academic rigour with practical application, researching and writing a first-class dissertation on probabilistic machine learning for football analysis (focusing on xG and win prediction), as well as conducted a project exploring ethical opinions through video game activity. These experiences fuel my ongoing work, where I combine code, data, and curiosity to drive results.
 
 ## Current Focus
 - Developing a whole host of predictive models for sports performance analysis and forecasting
+- Developing models around Theme Park Queue Time Prediction
 - Experimenting with optimisation techniques using a combination of PuLP and ML generated data - Particularly in the sphere of fantasy sports (Fantasy Premier League (FPL) & Fantasy F1)
-- Advancing my Azure expertise towards the DP-100 certification.
 
 ## Let’s Connect
 I’d welcome a conversation about data science, sports analytics, or solving intricate challenges with data. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alex-redshaw-a21711323/).
