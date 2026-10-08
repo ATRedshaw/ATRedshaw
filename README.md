@@ -86,7 +86,7 @@ I also build Power BI and Tableau dashboards and explain model behaviour, assump
 
 BSc Computer Science (Digital & Technology Solutions), University of Leeds, 2:1. Completed through PwC's degree apprenticeship, with first-class grades in my football modelling dissertation and Masters-level Data Science module.
 
-- Microsoft Certified Machine Learning Operations Engineer Associate (AI-300), August 2026
+- [Microsoft Certified Machine Learning Operations Engineer Associate (AI-300)](https://learn.microsoft.com/en-gb/users/alexredshawuk-7850/credentials/2437fc2a429aebd9?ref=https%3A%2F%2Fwww.linkedin.com%2F), August 2026
 - [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/api/credentials/share/en-gb/AlexRedshawUK-7850/A925928DDD97389E?sharingId=C183137B04FE9A8C), June 2026
 - [Azure Data Scientist Associate (DP-100)](https://learn.microsoft.com/api/credentials/share/en-us/AlexRedshawUK-7850/3D296666B7DA157C?sharingId=C183137B04FE9A8C), June 2025
 - [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-gb/AlexRedshawUK-7850/67A0F1144119022E?sharingId=C183137B04FE9A8C), March 2025
